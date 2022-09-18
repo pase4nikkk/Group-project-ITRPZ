@@ -6,6 +6,7 @@ public class Addition implements Operation{
 
     public Addition(double a, double b)
     {
+
         this.firstItem = a;
         this.secondItem = b;
 
